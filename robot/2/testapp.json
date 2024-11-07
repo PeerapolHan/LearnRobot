@@ -1,0 +1,19 @@
+{
+  "deviceName": "Test Device",
+  "platformVersion": "14.0",
+  "platformName": "Android",
+  "appium:automationName": "UiAutomator2",
+  "appPackage": "com.material.components",
+  "appActivity": "com.material.components.activity.MainMenu"
+}
+
+// app= ./ep2/com.material.components.apk
+// {
+//   "appium:deviceName": "Test Device",
+//   "appium:platformVersion": "14.0",
+//   "platformName": "Android",
+//   "appium:automationName": "UiAutomator2",
+//   "appium:appPackage": "com.material.components",
+//   "appium:appActivity": "com.material.components.activity.MainMenu",
+//   "skipServerInstallation ": true
+// }
